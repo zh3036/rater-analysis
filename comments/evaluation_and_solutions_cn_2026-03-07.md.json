@@ -6,5 +6,25 @@
     "filePath": "evaluation_and_solutions_cn_2026-03-07.md",
     "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/evaluation_and_solutions_cn_2026-03-07.md"
   },
-  "comments": []
+  "comments": [
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "核心发现：分数里大部分是",
+        "prefix": "情、无条件积极关注、WAI咨访同盟）\n\n---\n\n## 一、现状评估：评分数据质量如何？\n\n### ",
+        "suffix": "\"噪声\"，不是\"信号\"\n\n通过多面Rasch模型（MFRM）的方差分解，我们发现评分中的变异来源如下",
+        "startOffset": 124,
+        "endOffset": 136,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "这里主要指单人的单个分数",
+      "id": "0e2d0ca8-6214-44ac-b09e-26c425f724c6",
+      "createdAt": "2026-03-06T18:42:10.738Z",
+      "resolved": false,
+      "replies": []
+    }
+  ]
 }
