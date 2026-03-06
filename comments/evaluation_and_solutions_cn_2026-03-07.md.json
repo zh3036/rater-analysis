@@ -1,30 +1,10 @@
 {
   "version": 1,
-  "comments": [
-    {
-      "author": {
-        "login": "zh3036",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
-      },
-      "anchor": {
-        "selectedText": "分数",
-        "prefix": "# 当前评",
-        "suffix": "据的诚实评估与应对方案\n\n**日期：** 2026-03-07\n**数据集：** 36名评分者 × ",
-        "startOffset": 5,
-        "endOffset": 7,
-        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
-      },
-      "body": "这里主要指单人的单个分数",
-      "id": "0b943f94-b687-46bf-86fb-9286ce7799c7",
-      "createdAt": "2026-03-06T18:41:47.564Z",
-      "resolved": false,
-      "replies": []
-    }
-  ],
   "metadata": {
     "repo": "zh3036/rater-analysis",
     "branch": "main",
     "filePath": "evaluation_and_solutions_cn_2026-03-07.md",
     "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/evaluation_and_solutions_cn_2026-03-07.md"
-  }
+  },
+  "comments": []
 }
