@@ -1,7 +1,14 @@
 {
   "version": 1,
+  "metadata": {
+    "repo": "zh3036/rater-analysis",
+    "branch": "main",
+    "filePath": "next_round_recommendations_cn_2026-03-07.md",
+    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/next_round_recommendations_cn_2026-03-07.md"
+  },
   "comments": [
     {
+      "id": "42578f27-930f-4b62-8a66-124b3de00e13",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -15,16 +22,28 @@
         "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
       },
       "body": "我们可能要挑2段对话作为评分基准",
-      "id": "42578f27-930f-4b62-8a66-124b3de00e13",
       "createdAt": "2026-03-06T18:46:08.253Z",
       "resolved": false,
       "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "精简TES至3–4题",
+        "prefix": "S，添加锚定示例** | 保持可比性；可能解决问题 | 如果锚定示例不够，浪费专家时间 |\n| **",
+        "suffix": "** | 减轻认知负担；可能改善区分度 | 失去细粒度 |\n| **完全去掉TES** | 集中资源",
+        "startOffset": 703,
+        "endOffset": 713,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "这个可操作吗？有更简单的共情问卷吗？",
+      "id": "bdffb6b1-259a-4806-af81-d8edec37f91f",
+      "createdAt": "2026-03-06T18:46:54.305Z",
+      "resolved": false,
+      "replies": []
     }
-  ],
-  "metadata": {
-    "repo": "zh3036/rater-analysis",
-    "branch": "main",
-    "filePath": "next_round_recommendations_cn_2026-03-07.md",
-    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/next_round_recommendations_cn_2026-03-07.md"
-  }
+  ]
 }
