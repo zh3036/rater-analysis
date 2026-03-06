@@ -46,6 +46,7 @@
       "replies": []
     },
     {
+      "id": "a30cb9fe-707c-4850-b893-5c3883e685ac",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -59,8 +60,26 @@
         "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
       },
       "body": "这个可操作么？下边这些子维度好像是ai自己编的",
-      "id": "a30cb9fe-707c-4850-b893-5c3883e685ac",
       "createdAt": "2026-03-06T18:47:23.545Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "原来的对话",
+        "prefix": "控制或引导\n- 真诚关怀：咨询师表现出对来访者作为个体的真诚兴趣和关心\n\n### 6. 设计决策：评",
+        "suffix": "还是新对话？\n\n| 方案 | 优点 | 缺点 |\n|------|------|------|\n| ",
+        "startOffset": 1069,
+        "endOffset": 1074,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "x",
+      "id": "1c95fa1d-dac5-457d-b810-d3d5d5111b0c",
+      "createdAt": "2026-03-06T18:47:35.511Z",
       "resolved": false,
       "replies": []
     }
