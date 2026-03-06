@@ -27,6 +27,7 @@
       "replies": []
     },
     {
+      "id": "9e19cd35-ba0b-475e-8d7a-4438ab4f7f11",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -40,10 +41,19 @@
         "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
       },
       "body": "双方对试图达成的治疗目标，存在疑虑或缺乏理解\"",
-      "id": "9e19cd35-ba0b-475e-8d7a-4438ab4f7f11",
       "createdAt": "2026-03-06T18:44:27.032Z",
       "resolved": false,
-      "replies": []
+      "replies": [
+        {
+          "id": "ffdd015f-1be1-4ccf-b3ff-cb4002ce013a",
+          "author": {
+            "login": "zh3036",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+          },
+          "body": "\"来访者和咨询师对来访者的真实问题是什么有不同的看法\"",
+          "createdAt": "2026-03-06T18:44:36.646Z"
+        }
+      ]
     }
   ]
 }
