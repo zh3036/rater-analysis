@@ -8,6 +8,7 @@
   },
   "comments": [
     {
+      "id": "0e2d0ca8-6214-44ac-b09e-26c425f724c6",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -21,8 +22,26 @@
         "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
       },
       "body": "这里主要指单人的单个分数",
-      "id": "0e2d0ca8-6214-44ac-b09e-26c425f724c6",
       "createdAt": "2026-03-06T18:42:10.738Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "反向计分题",
+        "prefix": "可用的，至少对WAI量表如此。\n\n### 哪些题目分歧最大？\n\n分歧最大的两道题恰好是WAI中的**",
+        "suffix": "**（item4、item10），比正常题目高出0.26个标准差。部分评分者理解为\"分越高=疑虑越多",
+        "startOffset": 980,
+        "endOffset": 985,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "双方对试图达成的治疗目标，存在疑虑或缺乏理解\"",
+      "id": "9e19cd35-ba0b-475e-8d7a-4438ab4f7f11",
+      "createdAt": "2026-03-06T18:44:27.032Z",
       "resolved": false,
       "replies": []
     }
