@@ -27,6 +27,7 @@
       "replies": []
     },
     {
+      "id": "bdffb6b1-259a-4806-af81-d8edec37f91f",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -40,8 +41,26 @@
         "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
       },
       "body": "这个可操作吗？有更简单的共情问卷吗？",
-      "id": "bdffb6b1-259a-4806-af81-d8edec37f91f",
       "createdAt": "2026-03-06T18:46:54.305Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "无条件积极关注扩展为3–4个题目",
+        "prefix": "S评分。如果ICC提升到0.3以上，继续推进；如果没有，就砍掉或大幅简化TES。\n\n### 5. 将",
+        "suffix": "\n\n目前只有1个题目——无法计算ICC，无法检测作答模式。建议增加子维度：\n- 非评判接纳：咨询师对",
+        "startOffset": 909,
+        "endOffset": 925,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "这个可操作么？下边这些子维度好像是ai自己编的",
+      "id": "a30cb9fe-707c-4850-b893-5c3883e685ac",
+      "createdAt": "2026-03-06T18:47:23.545Z",
       "resolved": false,
       "replies": []
     }
