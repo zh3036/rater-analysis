@@ -13,3 +13,13 @@ View: https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/next_round_reco
 我们可能要挑2段对话作为评分基准
 
 Status: Open
+
+---
+
+## zh3036 — 2026-03-06 18:46
+
+> "精简TES至3–4题"
+
+这个可操作吗？有更简单的共情问卷吗？
+
+Status: Open
