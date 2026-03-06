@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "comments": [
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "所有专家评分者先对同样的2–3段对话独立评分",
+        "prefix": "--\n\n## 采集前需要做的改动（按优先级排列）\n\n### 1. 校准会议（必须做）\n\n正式评分前，",
+        "suffix": "，然后当面讨论分歧。仅这一步就可能将评分者方差（目前占总方差的54%）减少一半。\n\n### 2. 立",
+        "startOffset": 127,
+        "endOffset": 149,
+        "commitSha": "aa0d96258d9771a35cd91f3feea888e447799423"
+      },
+      "body": "我们可能要挑2段对话作为评分基准",
+      "id": "42578f27-930f-4b62-8a66-124b3de00e13",
+      "createdAt": "2026-03-06T18:46:08.253Z",
+      "resolved": false,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "repo": "zh3036/rater-analysis",
+    "branch": "main",
+    "filePath": "next_round_recommendations_cn_2026-03-07.md",
+    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/next_round_recommendations_cn_2026-03-07.md"
+  }
+}
