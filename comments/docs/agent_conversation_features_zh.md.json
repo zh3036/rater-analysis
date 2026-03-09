@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "comments": [
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "2. 生成与评估不设置超时",
+        "prefix": "，系统会在输出中标记 `\"parent_profile\": \"custom\"`，便于区分。\n\n## ",
+        "suffix": "\n\n对话生成（多轮 LLM 交互）和 3 维度评估可能需要 2 到 10 分钟以上。系统需确保长时间",
+        "startOffset": 173,
+        "endOffset": 186,
+        "commitSha": "95df74b1200ea54507cb0cdd1d9bee88107f5877"
+      },
+      "body": "这个已经做了应该",
+      "id": "18c6061a-cd58-4332-9960-1715b81b4227",
+      "createdAt": "2026-03-09T07:16:13.765Z",
+      "resolved": false,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "repo": "zh3036/rater-analysis",
+    "branch": "main",
+    "filePath": "docs/agent_conversation_features_zh.md",
+    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/docs/agent_conversation_features_zh.md"
+  }
+}
