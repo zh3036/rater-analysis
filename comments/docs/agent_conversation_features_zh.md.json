@@ -8,6 +8,7 @@
   },
   "comments": [
     {
+      "id": "cc5139c5-f0d8-4688-b7c7-e429dc26f297",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -21,7 +22,6 @@
         "commitSha": "95df74b1200ea54507cb0cdd1d9bee88107f5877"
       },
       "body": "这个应该简单",
-      "id": "cc5139c5-f0d8-4688-b7c7-e429dc26f297",
       "createdAt": "2026-03-09T07:16:23.554Z",
       "resolved": false,
       "replies": []
@@ -42,6 +42,25 @@
       },
       "body": "这个已经做了应该",
       "createdAt": "2026-03-09T07:16:13.765Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "步任务体验",
+        "prefix": "分钟以上。系统需确保长时间运行的任务不会因超时而被中断，无论是在后端还是前端层面。\n\n## 3. 异",
+        "suffix": "\n\n生成过程本质上是耗时的。用户体验应将其视为异步任务，而非同步的请求-响应：\n\n- 用户点击\"生成",
+        "startOffset": 273,
+        "endOffset": 278,
+        "commitSha": "95df74b1200ea54507cb0cdd1d9bee88107f5877"
+      },
+      "body": "这个大概需要些设计 ，可以拿个基本前端 demo，我们讨论下",
+      "id": "11abc7d3-60f1-4c8a-9d1f-deff9c621e84",
+      "createdAt": "2026-03-09T07:16:40.541Z",
       "resolved": false,
       "replies": []
     }
