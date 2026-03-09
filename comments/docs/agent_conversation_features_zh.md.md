@@ -32,4 +32,6 @@ Status: Open
 
 这个大概需要些设计 ，可以拿个基本前端 demo，我们讨论下
 
+**zh3036** (reply, 2026-03-09 07:29): https://async-task-demo.vercel.app
+
 Status: Open
