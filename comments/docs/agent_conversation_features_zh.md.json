@@ -1,7 +1,33 @@
 {
   "version": 1,
+  "metadata": {
+    "repo": "zh3036/rater-analysis",
+    "branch": "main",
+    "filePath": "docs/agent_conversation_features_zh.md",
+    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/docs/agent_conversation_features_zh.md"
+  },
   "comments": [
     {
+      "author": {
+        "login": "zh3036",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
+      },
+      "anchor": {
+        "selectedText": "定义的家长提示词",
+        "prefix": "# 智能体对话与评估 — 功能描述\n\n## 1. 可自",
+        "suffix": "\n\n目前系统中教练（coach）的提示词已经支持自定义。本功能将同样的灵活性扩展到家长侧——用户可以",
+        "startOffset": 27,
+        "endOffset": 35,
+        "commitSha": "95df74b1200ea54507cb0cdd1d9bee88107f5877"
+      },
+      "body": "这个应该简单",
+      "id": "cc5139c5-f0d8-4688-b7c7-e429dc26f297",
+      "createdAt": "2026-03-09T07:16:23.554Z",
+      "resolved": false,
+      "replies": []
+    },
+    {
+      "id": "18c6061a-cd58-4332-9960-1715b81b4227",
       "author": {
         "login": "zh3036",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5772057?v=4"
@@ -15,16 +41,9 @@
         "commitSha": "95df74b1200ea54507cb0cdd1d9bee88107f5877"
       },
       "body": "这个已经做了应该",
-      "id": "18c6061a-cd58-4332-9960-1715b81b4227",
       "createdAt": "2026-03-09T07:16:13.765Z",
       "resolved": false,
       "replies": []
     }
-  ],
-  "metadata": {
-    "repo": "zh3036/rater-analysis",
-    "branch": "main",
-    "filePath": "docs/agent_conversation_features_zh.md",
-    "url": "https://md-comment.fly.dev/zh3036/rater-analysis/blob/main/docs/agent_conversation_features_zh.md"
-  }
+  ]
 }
